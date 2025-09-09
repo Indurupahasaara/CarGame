@@ -1,0 +1,10 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\bin\Debug\Deagon and human gmae.exe.config
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\bin\Debug\Deagon and human gmae.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\bin\Debug\Deagon and human gmae.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\bin\Debug\Deagon and human gmae.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\obj\Debug\Deagon_and_human_gmae.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\obj\Debug\Deagon_and_human_gmae.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\obj\Debug\Deagon and human gmae.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\obj\Debug\Deagon and human gmae.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\obj\Debug\Deagon and human gmae.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Deagon and human gmae\obj\Debug\Deagon and human gmae.pdb

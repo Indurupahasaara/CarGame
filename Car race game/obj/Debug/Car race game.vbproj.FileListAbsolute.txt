@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\bin\Debug\Car race game.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\bin\Debug\Car race game.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\bin\Debug\Car race game.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\bin\Debug\Car race game.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\obj\Debug\Deagon_and_human_gmae.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\obj\Debug\Deagon_and_human_gmae.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\obj\Debug\Car race game.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\obj\Debug\Car race game.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\obj\Debug\Car race game.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Car race game\Car race game\obj\Debug\Car race game.pdb
